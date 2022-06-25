@@ -1,6 +1,46 @@
-# Getting Started with Create React App and Redux
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
+# Requirements and Install
+
+
+Commands needed to install packages to run your project app
+
+ - **React-Redux with npm**
+
+`npm install` 
+
+`react-redux`
+
+> #### Official REACT-REDUX Documentation to [learn more](https://react-redux.js.org/introduction/getting-started) 
+
+<br>
+
+- **Axios**
+
+`npm install axios` or `yarn add axios`
+
+`bower install axios`
+
+> ### Official AXIOS Documentation to [learn more](https://axios-http.com/docs/intro) 
+
+<br>
+
+- **Jest-DOM npm** 
+
+`npm install --save-dev jest-environment-jsdom`
+
+- **Jest-DOM yarn**
+
+`yarn add --dev jest-environment-jsdom` 
+
+
+> ### Official JEST Documentation to [learn more](https://jestjs.io/pt-BR/docs/getting-started) 
+
+
+<br>
+
+# Getting Started with Create React App
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
@@ -44,3 +84,30 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+### Code Splitting
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+
+### Analyzing the Bundle Size
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
